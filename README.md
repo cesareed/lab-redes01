@@ -84,5 +84,6 @@ Imagem da Topologia Utilizada no Laboratório:
 
   Etapas realizadas:
 
-  Fiz a instalação do Windowns 10 na maquina 
-  Realizei a configuração do roteador na maquina principal 
+  - Fiz a instalação do Windowns 10 na maquina 
+  - Realizei a configuração do roteador na maquina principal 
+    
