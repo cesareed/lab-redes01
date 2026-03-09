@@ -55,3 +55,34 @@ Imagem da Topologia Utilizada no Laboratório:
 
   
   ![](topologia.png)
+
+  --- 
+
+  ## 4. Plano de endereçamento IP
+
+  Rede: 192,168.0.0/24
+  Gateway: 192.168.0.1
+
+  | Dispositivo | Tipo de IP | Endereço de IP | Observação |
+  |-------------|-------------|-------------|-------------|
+  | Roteador | Estático | 192.168.0.1 | IP do roteador |
+  | PC1 | Reserva DHCP | 192.168.0.101 | IP reservado pelo roteador |
+  | PC2 | DHCP | Automático| IP atribuido pelo roteador |
+  | PC3 | DHCP | Automático| IP atribuido pelo roteador |
+  | Impressora | DHCP | automático | IP atribuido pelo roteador |
+
+  **Observação**
+
+  - A impressora e um dos notebooks utilizam reserva DHCP.
+  - O roteador sempre atríbui o mesmo endereço IP a esses dispositivos.
+
+  ---
+
+  ## 5. Implementação no laboratório Real 
+
+  Após a instalação, a rede foi montado fisicamente no laboratório
+
+  Etapas realizadas:
+
+  Fiz a instalação do Windowns 10 na maquina 
+  Realizei a configuração do roteador na maquina principal 
