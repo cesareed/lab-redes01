@@ -86,4 +86,15 @@ Imagem da Topologia Utilizada no Laboratório:
 
   - Fiz a instalação do Windowns 10 na maquina 
   - Realizei a configuração do roteador na maquina principal 
+
+  ## 6. Conclusão 
+
+  Este laboratório permitiu compreender o funcionamento de uma rede local simples, Incluindo 
+
+  - Estrutura de uma rede doméstica ou de um pequeno escritorio 
+  - Utilização de um roteador com porta WAN e portas LAN 
+  - Funcionamento do DHCP
+  - Comunicação entre dispostivos na rede local
+  - Utilização de uma impressora de rede
+  - Compartilhamento de Pastas 
     
