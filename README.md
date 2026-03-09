@@ -51,3 +51,4 @@ Router --> |LAN 2| PC2
 Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
 ```
+<img width="564" height="591" alt="image" src="https://github.com/user-attachments/assets/a0c5a12c-17e6-4da6-af33-4a0bd16c80e9" />
